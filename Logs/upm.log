@@ -1,0 +1,43 @@
+[2026-06-17T14:43:47.391Z][INFO] Command-line: D:\\Unity\\6000.5.0f1\\Editor\\Data\\Resources\\PackageManager\\Server\\UnityPackageManager.exe server -s 12380 --ipc-path Unity-Upm-12380 -l 2 --log-file D:\\Download\\work\\test\\UnitZBattlegrounds/Logs/upm.log
+[2026-06-17T14:43:47.507Z][INFO] IPC server started (IPC path=Unity-Upm-12380).
+[2026-06-17T14:43:47.508Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-12380.
+[2026-06-17T14:47:04.104Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-06-17T14:47:06.561Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-06-17T14:47:06.563Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-06-17T14:47:06.914Z][INFO] project:resolve-packages <-- Request received
+params: {}
+[2026-06-17T14:47:07.018Z][INFO] config:project:get-registries --> 200 (457 ms)
+[2026-06-17T14:47:07.224Z][INFO] project:list-packages --> 200 (3121 ms)
+[2026-06-17T14:47:07.752Z][INFO] project:list-packages --> 200 (1189 ms)
+[2026-06-17T14:47:10.242Z][WARN] Requested version [4.9.3] for package [com.unity.searcher] overridden by minimum version [4.9.4].
+[2026-06-17T14:47:10.242Z][WARN] Requested version [1.8.14] for package [com.unity.burst] overridden by minimum version [1.8.29].
+[2026-06-17T14:47:10.242Z][WARN] Requested version [3.2.0] for package [com.unity.test-framework.performance] overridden by minimum version [3.5.0].
+[2026-06-17T14:47:10.246Z][INFO] project:resolve-packages --> 200 (3332 ms)
+[2026-06-17T14:49:16.034Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-06-17T14:49:17.108Z][INFO] project:list-packages --> 200 (1074 ms)
+[2026-06-17T14:49:17.513Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-06-17T14:49:18.690Z][INFO] project:list-packages --> 200 (1177 ms)
+[2026-06-17T14:49:19.160Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-06-17T14:49:20.251Z][INFO] project:list-packages --> 200 (1091 ms)
+[2026-06-17T14:58:39.240Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-06-17T14:58:39.336Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-06-17T14:58:41.439Z][INFO] project:list-packages --> 200 (2200 ms)
+[2026-06-17T14:58:41.442Z][INFO] project:list-packages --> 200 (2106 ms)
+[2026-06-17T14:58:49.590Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-06-17T14:58:50.076Z][INFO] project:list-packages --> 200 (485 ms)
+[2026-06-17T14:58:50.864Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-06-17T14:58:50.878Z][INFO] config:project:get-registries --> 200 (14 ms)
+[2026-06-17T15:03:59.457Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-06-17T15:04:00.487Z][INFO] project:list-packages --> 200 (1030 ms)
+[2026-06-17T15:11:24.416Z][INFO] Shutting down UnityPackageManager.exe: parent process [12380] is no longer running.
